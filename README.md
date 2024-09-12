@@ -26,13 +26,6 @@ Users can register, log in, view their account history, open new accounts, make 
 
 
   
-## Features
-
-- React and Redux
-- Single Page Application
-- Material UI
-
-  
 ## Technologies
 
 **Language:** Javascript, Java
