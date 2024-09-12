@@ -36,7 +36,9 @@ Users can register, log in, view their account history, open new accounts, make 
 ## Technologies
 
 **Language:** Javascript, Java
+
 **Framework:** Spring Boot
+
 **Technologies:** - React, Redux, Router Dom, MySql, Javax Servlet, Tomcat, Spring Security Crypto, Json Web Token, Interceptors
 
 
